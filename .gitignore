@@ -2,3 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Pastas criadas ao rodar o código
+graficos_shazam/
+histogramas_pares/
+histogramas_simples/
